@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($fire#$FIRE)) + $(($water#$WATER))
+echo $(( $(($fire#$FIRE)) + $(($water#$WATER))))
