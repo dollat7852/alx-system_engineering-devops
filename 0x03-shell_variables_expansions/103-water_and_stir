@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "%s %d %s %d" "Water is in base $WATER and $STIR is in base stir"
