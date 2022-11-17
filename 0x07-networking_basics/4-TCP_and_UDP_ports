@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# list all listening ports using netstat
+# -p shows process id/PID
+# -l shows only listening ports
+
+netstat -lp
